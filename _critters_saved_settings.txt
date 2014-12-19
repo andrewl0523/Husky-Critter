@@ -1,0 +1,19 @@
+#CSE 142 Critters saved settings
+#Thu Feb 27 21:17:55 PST 2014
+Husky_Senanayake1=false
+Height=50
+Husky_Senanayake=true
+Number\ of\ each\ critter=25
+Network\ features=false
+Husky_liu2=false
+Vulture=false
+Husky_liu1=false
+Secure\ tournament\ mode=false
+Bird=false
+Debug\ output=false
+Husky=false
+Ant=false
+Hippo=false
+Width=60
+Husky_liu=true
+Stone=false
